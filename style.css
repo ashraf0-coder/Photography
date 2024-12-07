@@ -38,6 +38,13 @@ body {
 .hero-content {
     z-index: 2;
 }
+.hero{
+    background-image: url('Me/bg.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    height: 500px;
+}
 
 .hero h1 {
     font-size: 3rem;
